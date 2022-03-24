@@ -20,7 +20,7 @@ body {
 .card-front {
     height: 100%;
     width: 100%;
-    background-image: url(https://www.thewrap.com/wp-content/uploads/2021/08/Robert-Downey-Jr-Iron-Man.jpg);
+    background-image: url(dummy-user.png);
     background-position: 50% 50%;
     background-size: cover;
     position: absolute;
